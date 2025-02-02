@@ -2,6 +2,8 @@
 
 ## Automation Testnet Haust V2
 
+![Tampilan Bot](images/haust.jpg)
+
 ### Setup Instructions
 
 #### IF YOU RUN WITH WALLET V1
