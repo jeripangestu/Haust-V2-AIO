@@ -2,7 +2,7 @@
 
 ## Automation Testnet Haust V2
 
-![Tampilan Bot](images/haust.jpg)
+![Tampilan Bot](haust.jpg)
 
 ### Setup Instructions
 
