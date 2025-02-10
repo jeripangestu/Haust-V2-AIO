@@ -1,7 +1,7 @@
 import log from "./logger.js"
 import { ethers } from 'ethers';
 
-const NFT_CONTRACT_ADDRESS = '0x6B3f185C4c9246c52acE736CA23170801D636c8E';
+const NFT_CONTRACT_ADDRESS = '0x28e50a3632961dA179b2Afca4675714ea22E7BB7';
 
 const NFT_ABI = [
     {
